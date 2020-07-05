@@ -1,0 +1,58 @@
+var newConnection = [
+	{
+		"image1" : "objects/a1.JPG",
+		"image2" : "objects/a2.JPG",
+		"image3" : "objects/a3.JPG",
+		"image4" : "objects/a4.JPG",
+		"answer" : "Dinning room",
+	},
+	{
+		"image1" : "objects/2a.JPG",
+		"image2" : "objects/2b.JPG",
+		"image3" : "objects/2c.JPG",
+		"image4" : "objects/2d.jpg",
+		"answer" : "Grandma's Room",
+	},
+	{
+		"image1" : "objects/3a.JPG",
+		"image2" : "objects/3b.JPG",
+		"image3" : "objects/3c.JPG",
+		"image4" : "objects/3d.JPG",
+		"answer" : "Honeymoon Suite",
+	},
+	{
+		"image1" : "objects/4a.JPG",
+		"image2" : "objects/4b.JPG",
+		"image3" : "objects/4c.JPG",
+		"image4" : "objects/4d.JPG",
+		"answer" : "Johnny's Room",
+	},
+	{
+		"image1" : "objects/5a.JPG",
+		"image2" : "objects/5b.JPG",
+		"image3" : "objects/5c.JPG",
+		"image4" : "objects/5d.JPG",
+		"answer" : "Kitchen",
+	},
+	{
+		"image1" : "objects/6a.JPG",
+		"image2" : "objects/6b.JPG",
+		"image3" : "objects/6c.JPG",
+		"image4" : "objects/6d.JPG",
+		"answer" : "Laundry Room",
+	},
+	{
+		"image1" : "objects/7a.JPG",
+		"image2" : "objects/7b.JPG",
+		"image3" : "objects/7c.JPG",
+		"image4" : "objects/7d.JPG",
+		"answer" : "Pop-pop's Room",
+	},
+	{
+		"image1" : "objects/8a.JPG",
+		"image2" : "objects/8b.JPG",
+		"image3" : "objects/8c.JPG",
+		"image4" : "objects/8d.JPG",
+		"answer" : "Situation Room",
+	},
+];

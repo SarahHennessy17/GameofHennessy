@@ -1,0 +1,145 @@
+body{
+	background-image: url("shamrock.jpg");
+	background-size: cover;
+	font-family: sans-serif;
+	color: white;
+	overflow: hidden;
+	cursor: url("cursor1.png"), auto;
+}
+
+#question{
+	font-size: 2.5vw;
+	text-align: center;
+	vertical-align: middle;
+	width: 60%;
+	height: 10%;
+	background-color:#006600;
+	margin: auto;
+	margin-top: 2%;
+	overflow: hidden;
+}
+
+.score{
+	height: 10%;
+	width: 10%;
+	background-color: green;
+	margin: auto;
+}
+
+#board {
+	background-color: rgb(116, 201, 130);
+	width: 90%;
+	height: 80%;
+	margin: auto;
+}
+
+.answer {
+	background-color: #006600; 
+	width: 40%;
+	height: 15%;
+	margin-top: 2%;
+	margin-left: 5%;
+	margin-right: 5%;
+	position: relative;
+	float: left;
+	top:10%;
+	font-size: 4vw;
+}
+
+.Main {
+	font-size: 42pt;
+	text-align: center;
+	width: 90%;
+	height: 90%;
+	background-color: rgb(116, 201, 130);
+	margin: auto;
+	margin-top: 2%;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+
+/*div {
+	margin: 2%;
+}*/
+
+.reveal{
+	width: 40%;
+	height: 7%;
+	background-color: #006600;
+	float: center;
+	text-align: center;
+	padding-top:1%;
+	font-size: 24pt;
+}
+
+.score {
+	position: relative;
+	float: right;
+	top: 20%;
+}
+
+.name {
+	position: relative;
+	float: left;
+	top: 20%;
+}
+
+.get{
+	margin: auto;
+	margin-left: 30%;
+}
+
+.home, .refresh{
+	width: 15vw;
+	height: 6%;
+	background-color: #006600;
+	float: right;
+	margin: 0;
+	font-size: 3vw;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.refresh {
+	float: left;
+}
+
+.button {
+	margin: 0;
+	padding: 0;
+}
+
+.hide {
+	display: none;
+}
+
+#question-target , #answer-target{
+	background-color: #006600;
+	width: 50%;
+	height: 50%;
+	margin: auto;
+	font-size: 42pt;
+}
+
+img {
+	width: 20%;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 1%;
+}
+
+.cat1, .cat2, .cat3, .cat4, .cat5, .cat6, .cat7, .cat8 {
+	font-size: 5vw;
+	text-align: center;
+}
+
+
+
+
+
+
+
